@@ -1,0 +1,15 @@
+/* style */
+
+.click {
+    font-size: 28px;
+    font-family: "Times New Roman", "Helvetica", sans-serif;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.yellow {
+    background-color: yellow;
+}
